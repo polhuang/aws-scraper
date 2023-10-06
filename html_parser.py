@@ -20,7 +20,7 @@ for url in urls:
             # Create filename from url
             filename = os.path.join("aws-docs", url.split("//")[-1].replace("/", "_") + ".html")
 
-            # Write content to text files
+            # Write content to file
             with open(filename, 'w', encoding='utf-8') as file:
                 file.write(content)
 
