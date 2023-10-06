@@ -1358,18 +1358,6 @@
     <loc>https://docs.aws.amazon.com/cases/latest/APIReference/sitemap.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://docs.aws.amazon.com/cdk/api/v1/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
-    <loc>https://docs.aws.amazon.com/cdk/api/v2/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
-    <loc>https://docs.aws.amazon.com/cdk/site_map/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
-    <loc>https://docs.aws.amazon.com/cdk/v2/guide/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
     <loc>https://docs.aws.amazon.com/cfn-guard/latest/ug/sitemap.xml</loc>
   </sitemap>
   <sitemap>
@@ -2188,16 +2176,6 @@
   <sitemap>
     <loc>https://docs.aws.amazon.com/entityresolution/site_map/sitemap.xml</loc>
   </sitemap>
-  <sitemap>
-    <loc>https://docs.aws.amazon.com/es_es/access-analyzer/latest/APIReference/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
-    <loc>https://docs.aws.amazon.com/es_es/accounts/latest/reference/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
-    <loc>https://docs.aws.amazon.com/es_es/acm/latest/userguide/sitemap.xml</loc>
-  </sitemap>
-  <sitemap>
     <loc>https://docs.aws.amazon.com/eventbridge/latest/APIReference/sitemap.xml</loc>
   </sitemap>
   <sitemap>
